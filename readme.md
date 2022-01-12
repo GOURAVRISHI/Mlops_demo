@@ -1,33 +1,34 @@
 # command used 
 
-'''bash
+```bash
 conda create -n mlops python=3.7 -y
-'''
+```
 
-'''bash
+```bash
 conda activate mlops
-'''
+```
 or 
-'''bash
+```bash
 source activate mlops
-'''
+```
 
-'''bash
+```bash
 pip install dvc
-'''
+```
 
-'''bash
+```bash
 dvc repro
-'''
+```
 
-'''bash
+```bash
 git init
-'''
+```
 
-'''bash
+```bash
 dvc repro
-'''
+```
 
-'''bash
-touc filename.extension
-'''
+```bash
+touch filename.extension
+```
+
